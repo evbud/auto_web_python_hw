@@ -1,0 +1,7 @@
+address: 'https://test-stand.gb.ru/gateway/login'
+address_posts: 'https://test-stand.gb.ru/api/posts'
+username: jojotest
+password: 65d181f329
+title: New test post
+description: Post about nothing....
+content: blablablablablablablabla blablabla bla
