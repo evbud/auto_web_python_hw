@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 1
+implicitly_wait: 3
+username: jojotest
+password: 65d181f329
+test_title: Test post
+test_description: It's just a test description.....
+test_content: Meow meow meow meow... Meow meow meow! meow!
