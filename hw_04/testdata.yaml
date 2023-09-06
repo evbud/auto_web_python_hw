@@ -17,3 +17,5 @@ email_pass: None
 log_name: log.txt
 report_name: report.html
 email_to: None
+my_post_title: kitty
+not_my_post_title: Test post
