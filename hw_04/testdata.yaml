@@ -1,0 +1,19 @@
+address: https://test-stand.gb.ru/gateway/login
+address_posts: https://test-stand.gb.ru/api/posts
+browser: firefox
+sleep_time: 1
+implicitly_wait: 3
+username: jojotest
+password: 65d181f329
+test_title: Test post
+test_description: It's just a test description.....
+test_content: Meow meow meow meow... Meow meow meow! meow!
+test_img: /test_img.jpeg
+contact_name: Johnny
+contact_email: johnny@t.t
+contact_content: Test content
+email_login: None
+email_pass: None
+log_name: log.txt
+report_name: report.html
+email_to: None
